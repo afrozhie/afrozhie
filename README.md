@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @afrozhie
-- 👀 I’m interested in video game n technology
-- 🌱 I’m currently learning about the world
-- 💞️ I’m looking to collaborate on my life
+- 👀 interested in video game n technology
+- 🌱 currently learning about the world
+- 💞️ looking to collaborate on my life
 - 📫 How to reach me is impossible
 
 <!---
